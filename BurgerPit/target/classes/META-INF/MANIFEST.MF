@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Shweta14946
+Build-Jdk: 16.0.1
+Implementation-Title: Online book store
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: in.bushansirgur
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/onlinebookstore
+Created-By: Maven Integration for Eclipse
+
